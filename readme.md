@@ -41,6 +41,6 @@ El tiempo que toma actualizar los precios de todos tus productos dependerá de l
 
 Ezequiel Del Vacchio - [https://wa.me/+5491169200232](https://wa.me/+5491169200232) - soporte@pexcreative.com
 
-Project Link: [https://pex.com.ar](https://pex.com.ar)
+Sitio web: [https://pex.com.ar](https://pex.com.ar)
 
 <p align="right">(<a href="#readme-top">top</a>)</p>

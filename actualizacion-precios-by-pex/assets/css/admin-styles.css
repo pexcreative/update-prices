@@ -1,0 +1,16 @@
+.progress-bar {
+    width: 0;
+    height: 20px;
+    background-color: #0073aa;
+    transition: width 0.3s ease-in-out;
+}
+
+#apbp-progress-bar {
+    margin-top: 20px;
+    background-color: #e5e5e5;
+}
+
+#apbp-result-message {
+    margin-top: 20px;
+    font-weight: bold;
+}

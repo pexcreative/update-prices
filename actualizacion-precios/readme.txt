@@ -1,8 +1,8 @@
-=== WooCommerce Bulk Price Updater ===
+=== Bulk Price Updater for woocommerce ===
 Contributors: pexcreative
 Tags: woocommerce, products, price, bulk update
 Requires at least: 5.0
-Tested up to: 6.0
+Tested up to: 6.6.1
 Stable tag: 1.0.0
 Requires PHP: 8.2
 License: GPLv2 or later
@@ -12,7 +12,7 @@ Easily update the prices of all your WooCommerce products in bulk with a custom 
 
 == Description ==
 
-The WooCommerce Bulk Price Updater plugin allows you to quickly and easily update the prices of all your WooCommerce products with a custom percentage increase or decrease.
+The Bulk Price Updater for woocommerce plugin allows you to quickly and easily update the prices of all your products with a custom percentage increase or decrease.
 
 Key features:
 
@@ -26,7 +26,7 @@ This plugin is perfect for store owners who need to update prices across their e
 
 == Installation ==
 
-1. Upload the plugin files to the `/wp-content/plugins/actualizacion-precios-by-pex` directory, or install the plugin through the WordPress plugins screen directly.
+1. Upload the plugin files to the `/wp-content/plugins/actualizacion-precios` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Navigate to the 'WooCommerce' -> 'Bulk Price Updater' menu in the WordPress admin panel.
 4. Enter the desired percentage of price increase or decrease.

@@ -35,3 +35,12 @@ El tiempo que toma actualizar los precios de todos tus productos dependerá de l
 
 ### 1.0.0
 * Lanzamiento inicial del plugin Actualizador de Precios en Masa de WooCommerce.
+
+<!-- CONTACT -->
+## Contact
+
+Ezequiel Del Vacchio - [https://wa.me/+5491169200232](https://wa.me/+5491169200232) - soporte@pexcreative.com
+
+Project Link: [https://pex.com.ar](https://pex.com.ar)
+
+<p align="right">(<a href="#readme-top">top</a>)</p>

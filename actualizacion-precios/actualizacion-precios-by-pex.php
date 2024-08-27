@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Actualización de precios para WooCommerce by Pex
-Description: Actualiza los precios de los productos de WooCommerce en masa con un porcentaje definido por el usuario.
+Plugin Name: Actualización de precios by Pex
+Description: Actualiza todos los precios de tu tienda en masa con un porcentaje definido por el usuario.
 Version: 1.0.0
 Author: Ezequiel Del Vacchio
 Plugin URI: http://pex.com.ar
@@ -10,7 +10,7 @@ License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/gpl-2.0.txt
 */
 
-// Asegurarse de que WooCommerce esté activo
+// Asegurarse de que el plugin esté activo
 if (!in_array('woocommerce/woocommerce.php', apply_filters('active_plugins', get_option('active_plugins')))) {
     return;
 }

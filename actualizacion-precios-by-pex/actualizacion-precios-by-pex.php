@@ -4,6 +4,8 @@ Plugin Name: Actualización de precios by Pex
 Description: Actualiza los precios de los productos de WooCommerce en masa con un porcentaje definido por el usuario.
 Version: 1.0
 Author: Ezequiel Del Vacchio
+Plugin URI: http://pexsell.com
+Author URI: https://www.pexcreative.com/desarrollo-de-apps/
 */
 
 // Asegurarse de que WooCommerce esté activo

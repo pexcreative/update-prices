@@ -22,7 +22,7 @@ El plugin Actualizador de Precios en Masa para WooCommerce te permite actualizar
 6. Monitorea la barra de progreso mientras se actualizan los precios.
 
 ## Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dmPVtGPC8kg" frameborder="0" allowfullscreen></iframe>
+[Ver video en YouTube](https://www.youtube.com/watch?v=dmPVtGPC8kg)
 
 ## Preguntas Frecuentes
 

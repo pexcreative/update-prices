@@ -12,6 +12,9 @@ El plugin Actualizador de Precios en Masa para WooCommerce te permite actualizar
 - Excluye productos específicos de la actualización en masa
 - Compatible con la última versión de WooCommerce
 
+## Video
+[![Ver video en YouTube](https://img.youtube.com/vi/dmPVtGPC8kg/hqdefault.jpg)](https://youtu.be/dmPVtGPC8kg)
+
 ## Instalación
 
 1. Sube los archivos del plugin al directorio `/wp-content/plugins/bulk-price-updater`, o instala el plugin a través de la pantalla de plugins de WordPress.
@@ -20,9 +23,6 @@ El plugin Actualizador de Precios en Masa para WooCommerce te permite actualizar
 4. Ingresa el porcentaje deseado de aumento o disminución de precio.
 5. Haz clic en el botón 'Actualizar Precios' para iniciar el proceso de actualización en masa.
 6. Monitorea la barra de progreso mientras se actualizan los precios.
-
-## Video
-[![Ver video en YouTube](https://img.youtube.com/vi/dmPVtGPC8kg/hqdefault.jpg)](https://youtu.be/dmPVtGPC8kg)
 
 
 ## Preguntas Frecuentes
